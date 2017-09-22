@@ -18,8 +18,7 @@ BODY {
 }
 
 #severkhac a {
-  background:url(https://i.imgur.com/dceFCMj.png) repeat-x;	
-  background:#3282B8;
+  background:url(https://i.imgur.com/dceFCMj.png) #3282B8 repeat-x;	
   display:inline;
   color:#FFF;
   text-shadow:1px 1px 2px #013E5F;
